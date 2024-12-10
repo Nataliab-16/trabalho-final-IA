@@ -7,7 +7,6 @@ env-visao/
 # Ignorar arquivos de pesos de modelos
 yolov3.weights
 yolov3-tiny.weights
-frozen_inference_graph.pb
 
 # Ignorar arquivos de log e de saída do Jupyter Notebook
 *.log
